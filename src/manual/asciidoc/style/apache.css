@@ -459,7 +459,7 @@ small {
 code {
     font-family: "Droid Sans Mono", "DejaVu Sans Mono", monospace;
     font-weight: 400;
-    color: rgba(0, 0, 0, .9)
+    color: #585ac2;
 }
 
 ul,
@@ -693,7 +693,7 @@ h6 strong {
 pre,
 pre>code {
     line-height: 1.45;
-    color: rgba(0, 0, 0, .9);
+    color: #585ac2;
     font-family: "Droid Sans Mono", "DejaVu Sans Mono", monospace;
     font-weight: 400;
     text-rendering: optimizeSpeed
@@ -781,7 +781,7 @@ b.button::after {
 }
 
 p a>code:hover {
-    color: rgba(0, 0, 0, .9)
+    color: #585ac2;
 }
 
 #header,
@@ -1287,7 +1287,7 @@ table.tableblock #preamble>.sectionbody>[class="paragraph"]:first-of-type p {
 }
 
 .sidebarblock>.content>.title {
-    color: #7a2518;
+    color: #303284;
     margin-top: 0;
     text-align: center
 }
@@ -1452,7 +1452,7 @@ table.pyhltable .linenodiv {
 .quoteblock blockquote,
 .quoteblock blockquote p {
     color: rgba(0, 0, 0, .85);
-    font-size: 1.15rem;
+    font-size: 1.05rem;
     line-height: 1.75;
     word-spacing: .1em;
     letter-spacing: 0;
@@ -1473,7 +1473,7 @@ table.pyhltable .linenodiv {
     font-weight: bold;
     line-height: .6em;
     margin-left: -.6em;
-    color: #7a2518;
+    color: #303284;
     text-shadow: 0 1px 2px rgba(0, 0, 0, .1)
 }
 
