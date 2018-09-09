@@ -4,7 +4,8 @@ Apache Manual is a template project to generate manual documentation of Apache p
 
 This project use the [asciidoctor-maven-plugin](https://github.com/asciidoctor/asciidoctor-maven-plugin).
 
-This project work for generation of the documentation in **html** and **pdf** format.
+The goal of this project is to generate the documentation in **html** and **pdf** format using a theme related to the 
+[Apache Software Foundation](https://apache.org) website.
 
 ## Structure
 
