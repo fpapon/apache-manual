@@ -2,14 +2,17 @@
 
 Apache Manual is a template project to generate manual documentation of Apache projects.
 
-This project use the [asciidoctor-maven-plugin](https://github.com/asciidoctor/asciidoctor-maven-plugin).
-
 The goal of this project is to generate the documentation in **html** and **pdf** format using a theme related to the 
 [Apache Software Foundation](https://apache.org) website.
+
+This project use the [asciidoctor-maven-plugin](https://github.com/asciidoctor/asciidoctor-maven-plugin).
 
 ## Structure
 
 The asciidoc manual example pages are located under `src/manual/asciidoc`.
+
+The example pages is a copy of some of pages of the [Apache Software Foundation](https://apache.org) website.
+This pages is used only for the illustration of the usage of this project.
 
 ## Generation
 
@@ -168,3 +171,6 @@ The aggregate generated file is `index.pdf` located in the *outputDirectory*.
 ## Contribute
 
 If you want to help you are welcome to push some PR or to contact me ;)
+
+Copyright © 2018 The Apache Software Foundation, Licensed under the Apache License, Version 2.0.
+Apache and the Apache feather logo are trademarks of The Apache Software Foundation.
